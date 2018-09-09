@@ -1,0 +1,3 @@
+File vue-site-raw.zip contains Markdown files and config.js code for vuepress dev 
+
+File vue-site-build.zip contains the rendered HTML files, config.js code as well as other assets such as CSS/JS files, images, etc. 
