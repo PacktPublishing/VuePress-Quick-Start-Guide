@@ -9,7 +9,7 @@ This is the code repository for [VuePress Quick Start Guide](https://www.packtpu
 ## What is this book about?
 What are static site generators, why do you need them, and how are they better than general blogging or writing or content tools? This book answers all those questions as you learn how to build sites with VuePress. 
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features:
 * Put together a simple site in Markdown
 * Use VuePress to generate a super-fast static site
 * Customize the appearance of your VuePress site using custom themes
@@ -50,7 +50,7 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789535754_ColorImages.pdf).
 
-### Related products <Paste books from the Other books you may enjoy section>
+### Related products
 * Vue.js 2 Design Patterns and Best Practices [[Packt]](https://www.packtpub.com/web-development/vuejs-design-patterns-and-best-practices?utm_source=github&utm_medium=repository&utm_campaign=9781788839792) [[Amazon]](https://www.amazon.com/dp/178883979X)
 
 * Full-Stack Web Development with Vue.js and Node [[Packt]](https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-node?utm_source=github&utm_medium=repository&utm_campaign=9781788831147) [[Amazon]](https://www.amazon.com/dp/1788831144)
@@ -71,4 +71,3 @@ Learn more about his works at sufyanism (dot) com
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 
-<table style="border-collapse: collapse; width: 100%;" border="1">
